@@ -1,0 +1,66 @@
+﻿Subject: Invoice #INV-7829-2025 - Action Required
+From: "Microsoft Billing" jekasot515@percyfx.com 
+To: hynylo@cyclelove.cc 
+Body:
+Dear Accounts Payable Team,
+Your Microsoft 365 Enterprise subscription invoice (#INV-7829-2025) for $1,299.00 is now available.
+Payment is due by August 10, 2025 to avoid service interruption.
+📎 View Invoice & Pay Now *(url: https://paypal.secure-login.net /invoice/7829)
+Invoice Details:
+* Subscription: Microsoft 365 E5
+* Billing Period: July 1-31, 2025
+* Payment Method: --****-4242
+If you have any questions, please contact our billing team:
+📞 +1 (855) 246-7890
+🕒 Mon-Fri, 6:00 AM - 6:00 PM PST
+                                                                                                                                     Sincerely,
+                                                                                                                   Microsoft Billing Department
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By observing  above mail i was identified  Phishing email
+
+
+
+
+ Red Flags in the Email
+1. Suspicious Sender Address
+   * From: jekasot515@percyfx.com
+      * Microsoft would never use a random domain like percyfx.com for billing.
+      * Legitimate Microsoft emails come from @microsoft.com, @account.microsoft.com, or @email.microsoft.com.
+2. Fake Payment Link
+   * URL: https://paypal.secure-login.net
+      * This is not a Microsoft or PayPal domain.
+      * A real Microsoft invoice link would go to https://account.microsoft.com/billing.
+3. Urgent Payment Threat
+   * "Payment is due by August 10, 2025 to avoid service interruption."
+      * Phishing emails often create fake urgency to pressure victims.
+4. Generic Greeting
+   * "Dear Accounts Payable Team" instead of your name.
+      * Microsoft usually personalizes emails with your account name.
+5. Fake Contact Info
+   * The phone number +1 (855) 246-7890 is not an official Microsoft support line.
+   * Real Microsoft billing support: 1-800-642-7676 (US).
